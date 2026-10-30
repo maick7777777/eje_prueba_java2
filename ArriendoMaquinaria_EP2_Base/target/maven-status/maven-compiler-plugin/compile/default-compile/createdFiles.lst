@@ -1,0 +1,7 @@
+cl\duoc\maquinaria\controller\MainController.class
+cl\duoc\maquinaria\model\CargadorFrontal.class
+cl\duoc\maquinaria\model\Excavadora.class
+cl\duoc\maquinaria\App.class
+cl\duoc\maquinaria\model\Maquina.class
+cl\duoc\maquinaria\Launcher.class
+cl\duoc\maquinaria\model\Certificable.class
